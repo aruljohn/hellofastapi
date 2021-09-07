@@ -55,10 +55,17 @@ INFO:     Application startup complete.
 
 ## Access the FastAPI application using browser
 
-Go to http://localhost:8000/ or http://localhost:8000/message
+Go to http://localhost:8000/
 
 You should get output like this:
 
+![image](https://user-images.githubusercontent.com/3209045/132408202-800d6c5e-7c3e-4f5c-bba7-c40a2c020691.png)
+
+Go to http://localhost:8000/message
+
+You should get output like this:
+
+![image](https://user-images.githubusercontent.com/3209045/132408295-d8a39c6d-84c2-49de-a1af-f823f06f14ba.png)
 
 
 ## Stopping the application
